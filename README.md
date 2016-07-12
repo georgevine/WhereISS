@@ -3,9 +3,14 @@ A Mac OSX status bar app that notifies the user when the International Space Sta
 
 ##To Build: 
 You must be running Mac OSX 10.10 or higher
+
+
 1. Clone the repository with `git clone https://github.com/georgevine/WhereISS.git`
+
 2. Open the WhereISS?.xcodeproj file in Xcode
+
 3. Click run.
+
 4. Have fun!
 
 
