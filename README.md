@@ -16,4 +16,5 @@ You must be running Mac OSX 10.10 or higher
 
 ##Resources
 AlamoFire - https://github.com/Alamofire/Alamofire (for HTTP requests)
+
 SwiftyJSON - https://github.com/SwiftyJSON/SwiftyJSON (for parsing JSON)
