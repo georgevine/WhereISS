@@ -1,6 +1,8 @@
 # WhereISS
 A Mac OSX status bar app that notifies the user when the International Space Station is passing over their position.
 
+![Alt text](readme_img/regular.png?raw=true "Closed when ISS is not Passing Over")
+
 ##To Build: 
 You must be running Mac OSX 10.10 or higher
 
